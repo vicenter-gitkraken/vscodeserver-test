@@ -1,0 +1,3 @@
+[submodule "test-repo1"]
+	path = test-repo1
+	url = https://github.com/vicenter-gitkraken/test-repo1.git
